@@ -11,7 +11,7 @@ public class ProjectApp extends Application {
     @Override public void start(Stage stage) throws IOException {
         Scene scene = new Scene(new HelloView(), 400, 200);
         stage.setScene(scene);
-        stage.setTitle("Amazing CSC 305 Project!");
+        stage.setTitle("Tourney Soft");
         stage.show();
     }
 
